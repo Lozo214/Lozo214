@@ -3,30 +3,33 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Applications</b>
+  - [To-do List](https://github.com/CSC335/priortitytodos-Lozo214)
+
+
 - <b>Games</b>
   - [Space Shooters](https://github.com/Lozo214/MyPygame)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Memory Game](https://github.com/CSC335/empty-repo-amanemmajordanlorenzo)
+  - [AZ Hold'em](https://github.com/CSC210-Arizona/azholdem-Lozo214)
+  - [Boggle](https://github.com/Lozo214/Boggle)
+  - [Tic-Tac-Toe](https://github.com/Lozo214/Tic-Tac-Toe)
+  - []()
+ 
+- <b>Data Structures And Algorithms</b>
+  - [Stacks](https://github.com/CSC210-Arizona/stacks-Lozo214)
+  - [Queues](https://github.com/CSC210-Arizona/queues2-Lozo214)
+  - [ArrayList]()
+  
+
 
 
 <h2> 🤳 Connect with me:</h2>
-
+<!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<!--
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
