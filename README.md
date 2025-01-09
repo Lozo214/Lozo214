@@ -3,17 +3,16 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Applications</b>
-  - [To-do List](https://github.com/CSC335/priortitytodos-Lozo214)
-
-
 - <b>Games</b>
-  - [Space Shooters](https://github.com/Lozo214/MyPygame)
   - [Memory Game](https://github.com/CSC335/empty-repo-amanemmajordanlorenzo)
+  - [Space Shooters](https://github.com/Lozo214/MyPygame)
   - [AZ Hold'em](https://github.com/CSC210-Arizona/azholdem-Lozo214)
   - [Boggle](https://github.com/Lozo214/Boggle)
   - [Tic-Tac-Toe](https://github.com/Lozo214/Tic-Tac-Toe)
   - []()
+
+- <b>Applications</b>
+  - [To-do List](https://github.com/CSC335/priortitytodos-Lozo214)
  
 - <b>Data Structures And Algorithms</b>
   - [Stacks](https://github.com/CSC210-Arizona/stacks-Lozo214)
