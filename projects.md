@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 
 Here are a few highlights. Each link goes to the repo with screenshots and details.
+- **C-- Compiler** - [Repo](https://github.com/Lozo214/Assg4.3)
 
-### Games
 - **Memory Game** — [Repo](https://github.com/CSC335/empty-repo-amanemmajordanlorenzo)  
   _Card matching, timer, difficulty levels_  
   ![Memory Game](/assets/img/memory-game.png)
@@ -17,7 +17,6 @@ Here are a few highlights. Each link goes to the repo with screenshots and detai
 
 - **AZ Hold'em** — [Repo](https://github.com/CSC210-Arizona/azholdem-Lozo214)
 
-### Applications
 - **To-do List** — [Repo](https://github.com/CSC335/priortitytodos-Lozo214)
 
 ### Data Structures & Algorithms
