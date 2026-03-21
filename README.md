@@ -17,7 +17,7 @@
   </li>
   
   <li>
-    <a href="https://github.com/CSC335/empty-repo-amanemmajordanlorenzo"><b>Memory Game</b></a> - A card-matching game built in <b>Java</b> using <b>JavaFX</b>, featuring multiple themes and difficulty modes, animated card flipping, audio effects, persistent high-score tracking, and <b>JUnit</b> testing.
+    <a href="https://github.com/Lozo214/MemoryCardGame"><b>Memory Game</b></a> - A card-matching game built in <b>Java</b> using <b>JavaFX</b>, featuring multiple themes and difficulty modes, animated card flipping, audio effects, persistent high-score tracking, and <b>JUnit</b> testing.
   </li>
   
   <li>
