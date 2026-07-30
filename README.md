@@ -1,12 +1,12 @@
 <h1>Lorenzo Harris</h1>
 
 <p>
-  Senior Computer Science student at the University of Arizona with interests in software engineering, backend development, data-driven applications, and building practical projects.
+  Recent Computer Science graduate with interests in software engineering, backend development, data-driven applications, and building practical projects.
 </p>
 
 <h2>About Me</h2>
 <p>
-  I am a senior at the University of Arizona studying Computer Science. My projects have given me experience with low-level systems, object-oriented programming, data analysis, and algorithm design. I enjoy building software that strengthens my technical skills and helps me grow as a developer.
+  I spent 8 years in the military before graduating from the University of Arizona in May 2026. My projects have given me experience with low-level systems, object-oriented programming, data analysis, and algorithm design. I enjoy building software that strengthens my technical skills and helps me grow as a developer.
 </p>
 
 <h2>Contact</h2>
@@ -18,12 +18,15 @@
 
 <h2>Technical Skills</h2>
 <p>
-  <b>Languages:</b> Python, Java, C, C++, JavaScript, HTML, CSS<br>
+  <b>Languages:</b> Python, Java, C++/C#, JavaScript, HTML, CSS<br>
   <b>Tools & Technologies:</b> Git, JavaFX, JUnit, pandas, NumPy, Matplotlib, scikit-learn, Pygame, SFML
 </p>
 
 <h2>Featured Projects</h2>
 <ul>
+  <li>
+  <a> <b>Archive Assist</b></a> A Windows desktop application for conducting quality assurance reviews on archived PDF documents. This is a live project with many planned updates.
+  </li>  
   <li>
     <a href="https://github.com/Lozo214/Assg4.3"><b>C-- Compiler</b></a> - A <b>C--</b> compiler for a subset of the C language that implements parsing, AST construction, symbol table management, and MIPS code generation.
   </li>
