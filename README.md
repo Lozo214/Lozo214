@@ -25,7 +25,7 @@
 <h2>Featured Projects</h2>
 <ul>
   <li>
-  <a> <b>Archive Assist</b></a> A Windows desktop application for conducting quality assurance reviews on archived PDF documents. This is a live project with many planned updates.
+  <a href="https://github.com/Lozo214/ArchiveAssist"> <b>Archive Assist</b></a> A Windows desktop application for conducting quality assurance reviews on archived PDF documents. This is a live project with many planned updates.
   </li>  
   <li>
     <a href="https://github.com/Lozo214/Assg4.3"><b>C-- Compiler</b></a> - A <b>C--</b> compiler for a subset of the C language that implements parsing, AST construction, symbol table management, and MIPS code generation.
