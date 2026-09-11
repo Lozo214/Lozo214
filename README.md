@@ -6,7 +6,7 @@
 
 <h2>About Me</h2>
 <p>
-  I spent 8 years in the military before graduating from the University of Arizona in May 2026. My projects have given me experience with low-level systems, object-oriented programming, data analysis, and algorithm design. I enjoy building software that strengthens my technical skills and helps me grow as a developer.
+  I spent 8 years in the military before graduating from the University of Arizona in May 2026. My software projects have given me experience with low-level systems, object-oriented programming, data analysis, and algorithm design. I enjoy building software that strengthens my technical skills and helps me grow as a developer.
 </p>
 
 <h2>Contact</h2>
